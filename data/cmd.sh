@@ -1,4 +1,4 @@
-﻿#!/bin/bash
+#!/bin/bash
 
 
 memTotal_b=`free -b |grep Mem |awk '{print $2}'`
@@ -31,4 +31,4 @@ echo '🔘  Processes : '"$ProcessCnt"
 echo "🔷🔶🔷🔶🔷🔶🔷🔶"
 echo '🔘 Uptime : '"$uptime"
 echo "🔷🔶🔷🔶🔷🔶🔷🔶🔷🔶🔷🔶"
-echo "@LuaError"
+echo "@Iam_Javid"
